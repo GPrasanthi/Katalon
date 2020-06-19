@@ -1,2 +1,2 @@
 # Katalon
-reating Repository of KAtalon-GIT
+Creating Repository of Katalon-GIT
